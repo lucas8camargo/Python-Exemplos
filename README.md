@@ -1,2 +1,1 @@
-# Python Exemplos
-Exemplos diversos da linguagem Python
+# Exemplos diversos da linguagem Python
