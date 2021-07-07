@@ -1,0 +1,10 @@
+a = '10' 
+b = int(a) 
+C = 10 
+d = str(c) 
+e = float(c) 
+f = complex(c) 
+a = float(8)# o valor ira ser convertido para float 
+a = str(8)# O valor ira ser convertido para string 
+a = int(8.7)# o valor sera convertido para int sempre arrendondando para baixo 
+a = complex
